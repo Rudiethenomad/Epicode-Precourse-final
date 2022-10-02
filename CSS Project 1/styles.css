@@ -1,0 +1,169 @@
+
+ 
+
+ 
+body {
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+
+.main-section {padding-left: 20px;
+               padding-right: 20px;
+               padding-top: 20px; 
+               padding-bottom: 20px;
+             
+             
+            }  
+
+.image-container-Home{
+    background-image: url("https://ssl.c.photoshelter.com/img-get2/I0000J0wZLstnVH8/fit=1000x750/04WA-0075.jpg"); 
+    background-size: 100%; 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+    width: 100vw;
+    height: 500px;
+    
+
+
+}
+
+
+.image-container-one {
+    background-image : url("https://external-preview.redd.it/aelg3hW63-yFWc1rT8a8PbTbnoqAp2shCCjydPtzjwo.jpg?auto=webp&s=dd8d3ae4c73a95c4d746f5bcf8672aba2b7250b4"); 
+   
+    background-size: 100%; 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+   
+    margin: 0;
+    width:100%;
+    height: 500px;
+    
+}
+
+.image-container-two {
+    background-image: url("https://i0.wp.com/laurendanner.com/wp-content/uploads/2016/10/IMG_7644.jpg?fit=3264%2C2448&ssl=1"); 
+    background-size: 100%; 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+    margin: 0;
+    width:100%;
+    height: 500px;
+    }
+
+.image-container-three{
+
+    background-image: url("https://i0.wp.com/beautifulplacestovisit.com/wp-content/uploads/2010/05/Mount_Hood_Oregon31.jpg"); 
+    background-size: 100%; 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+    margin: 0;
+    width:100%;
+    height: 500px;
+
+}
+
+.image-container-four{
+    background-image: url("https://i.pinimg.com/originals/30/06/30/3006307960edbf460425c6d0de01940b.jpg"); 
+    background-size: 100%; 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+    margin: 0;
+    width:100%;
+    height: 500px;
+}
+.image-container-five{
+    background-image: url("https://th.bing.com/th/id/R.9542da938d924dc8147b6375862bbe5f?rik=iNpUnBB%2bg6S3%2bw&pid=ImgRaw&r=0"); 
+    background-size: 100%; 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+    
+    margin: 0;
+    width:100%;
+    height: 500px;
+}
+
+h1 {
+    margin-bottom: 0;
+   
+    
+    font-family: 'Prata', serif ;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Prata', serif ;
+    font-size: 24px;
+    font-weight:400;
+    margin-top:0;
+    margin-bottom: 0;
+    border-bottom:1px color,#dfdfdf;
+}
+
+h6 {
+    background: linear-gradient(25deg, rgb(59, 106, 59), rgb(167, 87, 100));
+    
+    color:white;
+    margin-top: 56px;
+    margin-bottom: 0px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 22px;
+    padding-right: 22px;
+   
+}
+
+.author{
+
+text-decoration: none;
+font-style: italic;
+font-weight: 600;
+
+}
+
+a{text-decoration: none;
+   
+}
+
+.related  {
+    
+   color:rgb(59, 106, 59);
+    padding-left:0px;
+    
+    margin-bottom: 0;
+    margin: top 56px;;
+    list-style-type: none;}
+
+
+
+li a{
+  color:rgb(59, 106, 59);
+    padding-top:6px;
+    padding-bottom:6px;
+    padding-left:22px;
+    border-bottom: 1px;
+    border-bottom:#dfdfdf; 
+    list-style-type: none;
+}
+footer{
+    background-color: black;
+    color:white;
+    padding-left: 16px;
+    padding-right:16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+ 
+    text-align: center;
+}
+.footer-text{
+    color:white;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+               
+   }
+   
